@@ -2,14 +2,14 @@
 
 ![Loop Coaster](images/loop-coaster.png)
 
-> <small>The LEGO Group. (n.d.). Loop Coater™. Retrieved 2023, from
+> <small>The LEGO Group. (n.d.). Loop Coaster™. Retrieved 2023, from
 [https://www.lego.com/en-ca/product/loop-coaster-10303](https://www.lego.com/en-ca/product/loop-coaster-10303)</small>
 
 ### Description
 
 The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303)
 LEGO® Loop Coaster is a theme park, where there is
-motorized coaster going around once.
+a motorized coaster going around once.
 
 > <small>The LEGO Group. (n.d.). Loop Coaster™. Retrieved 2023, from
 [https://www.lego.com/en-ca/product/loop-coaster-10303](https://www.lego.com/en-ca/product/loop-coaster-10303)</small>
