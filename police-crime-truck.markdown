@@ -37,7 +37,7 @@ EV3 hub to connect a motor and LED lights.
 
 #### Variables/Settings
 
-Status: Can be set to "on" or "off". When there a
+Status: Can be set to "on" or "off". When there is a
 alert in the city. 
 
 ## Pseudocode
