@@ -6,7 +6,7 @@
 
 ### Description
 
-The Ice-Cream Truck will drive around Lego City and stop for people who want to buy ice cream. It will use a motor to create motion, cameras to detect perdestrians, LED lights to simulate color, and audio outputs to play music according to the presence of the perdestrians.
+The Ice-Cream Truck will drive around Lego City and stop for people who want to buy ice cream. It will use a motor to create motion, cameras to detect pedestrians, LED lights to simulate color, and audio outputs to play music according to the presence of the pedestrians.
 
 ![6 Ice Cream Truck](images/ice-cream-truck2.png)
 
