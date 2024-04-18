@@ -60,7 +60,7 @@ If counter == 100
 
 ## Port Settings
 
-Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
+Rotating hand Status: Can be set "on" or "off". (Rotate back and forth constantly)
 
 Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
 
