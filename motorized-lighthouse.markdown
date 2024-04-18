@@ -13,7 +13,7 @@ degrees every 5 minutes. It will run for 5 minutes.
 
 ![Motorized Lighthouse](./images/motorized-lighthouse2.png)
 
-> <smalll>LEGO (n.d.). LEGO Motorized Lighthouse. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/motorised-lighthouse-21335](https://www.lego.com/en-ca/product/motorised-lighthouse-21335)</small>
+> <small>LEGO (n.d.). LEGO Motorized Lighthouse. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/motorised-lighthouse-21335](https://www.lego.com/en-ca/product/motorised-lighthouse-21335)</small>
 
 
 ### Requirements
