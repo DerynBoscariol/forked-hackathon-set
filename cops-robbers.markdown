@@ -6,7 +6,7 @@
 
 ### Description
 
-The official [39 Cops and Robbers](https://lego.com/en-ca/product/police-station-chase-60370) Introduce kids to a world of imaginative play with this LEGO® City Police Station Chase (60370) toy playset for kids aged 4+. The station building features a raisable barrier and houses an office and a jail with a breakout function. This set also includes a police car and a crook’s getaway motorcycle, plus 2 police officer and 2 crook minifigures.
+The official [39 Cops and Robbers](https://lego.com/en-ca/product/police-station-chase-60370) introduces kids to a world of imaginative play with this LEGO® City Police Station Chase (60370) toy playset for kids aged 4+. The station building features a raisable barrier and houses an office and a jail with a breakout function. This set also includes a police car and a crook’s getaway motorcycle, plus 2 police officer and 2 crook minifigures.
 
 ![39 Cops and Robbers](images/cops-robbers2.jpg)
 
