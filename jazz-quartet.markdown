@@ -6,7 +6,7 @@
 
 ### Description
 
-The [Jazz Quartet](https://www.lego.com/en-ca/product/jazz-quartet-21334) LEGO® will play whenever there are people infront of them in a certain distace.
+The [Jazz Quartet](https://www.lego.com/en-ca/product/jazz-quartet-21334) LEGO® will play whenever there are people in front of them at a certain distance.
 
 ![Jazz Quartet](images/jazz-quartet-interactive.png)
 
@@ -20,13 +20,13 @@ Jazz Quartet will output port on an EV3 hub to connect ultrasonic sensor.
 
 ### Sensors and Motors
 
-Untrasonic Sensor will be used to detect object distance.
+Ultrasonic Sensor will be used to detect object distance.
 
 <img src="./media/ev3/untrasonic-sensor.jpeg" height="200">
 
 ### Variable and Settings
 
-Status: Can be set to "on" or "off". When on the quartet will move/play whenever there are object that are 15" or closer.
+Status: Can be set to "on" or "off". When on the quartet will move/play whenever there are objects that are 15" or closer.
 
 ![Jazz Quartet](images/jazz-quartet-variables.png)
 
@@ -35,7 +35,7 @@ Status: Can be set to "on" or "off". When on the quartet will move/play whenever
 In this example, the Jazz quartet will only play when there are any objects at 15' or closer:
 
 ```pseudocode
-WHile distance<=15
+While distance<=15
 
     IF status == "off"
 
